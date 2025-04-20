@@ -1,0 +1,17 @@
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\bin\Debug\net9.0\NexFlow.Infrastructure.deps.json
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\bin\Debug\net9.0\NexFlow.Infrastructure.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\bin\Debug\net9.0\NexFlow.Infrastructure.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\bin\Debug\net9.0\NexFlow.Application.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\bin\Debug\net9.0\NexFlow.Domain.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\bin\Debug\net9.0\NexFlow.Application.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\bin\Debug\net9.0\NexFlow.Domain.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow..9F8DB77D.Up2Date
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow.Infrastructure.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\refint\NexFlow.Infrastructure.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\NexFlow.Infrastructure.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Infrastructure\obj\Debug\net9.0\ref\NexFlow.Infrastructure.dll

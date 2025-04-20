@@ -1,0 +1,11 @@
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\bin\Debug\net9.0\NexFlow.Domain.deps.json
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\bin\Debug\net9.0\NexFlow.Domain.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\bin\Debug\net9.0\NexFlow.Domain.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\NexFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\NexFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\NexFlow.Domain.AssemblyInfo.cs
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\NexFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\NexFlow.Domain.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\refint\NexFlow.Domain.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\NexFlow.Domain.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Domain\obj\Debug\net9.0\ref\NexFlow.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\bin\Debug\net9.0\NexFlow.Application.deps.json
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\bin\Debug\net9.0\NexFlow.Application.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\bin\Debug\net9.0\NexFlow.Application.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\bin\Debug\net9.0\NexFlow.Domain.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\bin\Debug\net9.0\NexFlow.Domain.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow.Application.csproj.AssemblyReference.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow.Application.AssemblyInfoInputs.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow.Application.AssemblyInfo.cs
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow..4E550524.Up2Date
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow.Application.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\refint\NexFlow.Application.dll
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\NexFlow.Application.pdb
+C:\Users\adef6\Desktop\Bibesh\NexFlow\NexFlow.Application\obj\Debug\net9.0\ref\NexFlow.Application.dll
