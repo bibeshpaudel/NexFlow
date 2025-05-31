@@ -13,6 +13,15 @@
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Behaviours\" />
+    <Folder Include="Common\Interfaces\" />
+    <Folder Include="Common\Models\" />
+    <Folder Include="Features\Projects\Commands\" />
+    <Folder Include="Features\Projects\DTOs\" />
+    <Folder Include="Features\Projects\Queries\" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
